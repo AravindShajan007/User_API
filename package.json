@@ -1,0 +1,39 @@
+{
+  3: null,
+  "name": "User_API",
+  4: null,
+  "version": "1.0.0",
+  5: null,
+  "description": "",
+  6: null,
+  "scripts": {
+    7: null,
+    "build": "echo \"No build specified\" && exit 1",
+    8: null,
+    "test": "echo \"No test specified\" && exit 1",
+    9: null,
+    "start": "node index.js",
+    10
+  },
+  11: null,
+  "repository": {
+    12: null,
+    "type": "git",
+    13: null,
+    "url": "git+https://github.com/AravindShajan007/User_API.git",
+    14
+  },
+  15: null,
+  "author": "",
+  16: null,
+  "license": "ISC",
+  17: null,
+  "bugs": {
+    18: null,
+    "url": "https://github.com/AravindShajan007/User_API/issues",
+    19
+  },
+  20: null,
+  "homepage": "https://github.com/AravindShajan007/User_API#readme",
+  21
+}
